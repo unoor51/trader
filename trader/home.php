@@ -28,9 +28,7 @@ require_once("connect.php");
 			<link href="assests/css/custom.css" rel="stylesheet" />
 			<script src="assests/js/jquery-3.0.0.min.js"></script>
 			<script type="text/javascript">
-				// $(document).ready(function(){
-    //         		$("#tet").animate({top: '250px',left:'400px'},3000);
-   	// 		 	});
+		
 			</script>
 			<!--google fonts-->
 			<link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css' />
